@@ -1,0 +1,21 @@
+<OrdersInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Orders>
+		<OrderID>123</OrderID>
+		<OrderName>Electronics</OrderName>
+		<CustomerName>Pavan</CustomerName>
+		<DOB>01/02/2026</DOB>
+		<ProductsInfo>
+			<Product>
+				<ProductID>8</ProductID>
+				<ProductName>Canada</ProductName>
+				<Cost>100</Cost>
+				<quantity>20</quantity>
+				<status>InProgress</status>
+			</Product>
+		</ProductsInfo>
+	</Orders>
+</OrdersInfo>
+
+
+
+							
