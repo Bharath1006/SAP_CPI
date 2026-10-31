@@ -1,0 +1,20 @@
+<Employees>
+	<Employee>
+		<FirstName>Nancy</FirstName>
+		<Title>Sales Representative</Title>
+		<LastName>Davolio</LastName>
+		<EmployeeID>1</EmployeeID>
+	</Employee>
+	<Employee>
+		<FirstName>Andrew</FirstName>
+		<Title>Vice President, Sales</Title>
+		<LastName>Fuller</LastName>
+		<EmployeeID>2</EmployeeID>
+	</Employee>
+	<Employee>
+		<FirstName>Janet</FirstName>
+		<Title>Sales Representative</Title>
+		<LastName>Leverling</LastName>
+		<EmployeeID>3</EmployeeID>
+	</Employee>
+</Employees>

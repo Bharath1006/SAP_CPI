@@ -1,0 +1,20 @@
+sender side
+
+move file operation
+
+delete operation
+
+Keep File and Process Again operation
+
+Keep File and Mark as Processed in Idempotent Repository---? operation
+
+
+reciever side
+
+override - file name should be same and content inside should change--->then we will use override and in input folder file should not exist
+
+append 
+
+fail
+
+ignore
